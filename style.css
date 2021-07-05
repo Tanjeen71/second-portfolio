@@ -8,7 +8,7 @@ h1{
 span{
     color:rgb(255, 123, 0);
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 150px;
 }
@@ -35,4 +35,7 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 
+}
+.header{
+    color: darkgoldenrod;
 }
